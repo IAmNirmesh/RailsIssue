@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RailRepoIssue</string>
+
+    <string name="load_issues_button">Load issues</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_comments">Comments</string>
+    <string name="progress_dialog_msg">Loading...</string>
+    <string name="progress_dialog_issue_msg">Loading Issues. Please wait...</string>
+    <string name="progress_dialog_comments_msg">Loading Comments. Please wait...</string>
+    <string name="error_getting_issue_list">Error retrieving issues list.</string>
+</resources>
